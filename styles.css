@@ -6,6 +6,7 @@
 	background-color: black;
 	width: 650px;
 	padding: 5px;
+	margin:0px auto;
 }
 h1, p{
 	color: white;
@@ -16,14 +17,14 @@ h1{
 p{
 	margin: 10px;
 }
-
-.images ul li img{
+#images{
+	margin: 0px 10px;
+}
+#images li img{
 	width: 300px;
 	border: 1px solid white;
+	margin: 2px;
 }
-.images ul li{
+#images li{
 	display: inline-block;
-}
-.images{
-	margin: 0px 10px;
 }
