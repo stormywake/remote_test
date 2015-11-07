@@ -1,0 +1,29 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+#container{
+	background-color: black;
+	width: 650px;
+	padding: 5px;
+}
+h1, p{
+	color: white;
+}
+h1{
+	margin:0px 0px 10px 10px; 
+}
+p{
+	margin: 10px;
+}
+
+.images ul li img{
+	width: 300px;
+	border: 1px solid white;
+}
+.images ul li{
+	display: inline-block;
+}
+.images{
+	margin: 0px 10px;
+}
